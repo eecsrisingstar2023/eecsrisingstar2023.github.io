@@ -1,134 +1,134 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Devfest Toulouse 2019</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Devfest Toulouse 2019</description>
+    <title>Tags on EECS RISING STARTS 2023</title>
+    <link>http://localhost:40095/tags/</link>
+    <description>Recent content in Tags on EECS RISING STARTS 2023</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:40095/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>_big_data___ml___ai</title>
-      <link>http://localhost:1313/tags/_big_data___ml___ai/</link>
+      <link>http://localhost:40095/tags/_big_data___ml___ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/_big_data___ml___ai/</guid>
+      <guid>http://localhost:40095/tags/_big_data___ml___ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>_cloud___infra</title>
-      <link>http://localhost:1313/tags/_cloud___infra/</link>
+      <link>http://localhost:40095/tags/_cloud___infra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/_cloud___infra/</guid>
+      <guid>http://localhost:40095/tags/_cloud___infra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>_iot</title>
-      <link>http://localhost:1313/tags/_iot/</link>
+      <link>http://localhost:40095/tags/_iot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/_iot/</guid>
+      <guid>http://localhost:40095/tags/_iot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>_languages</title>
-      <link>http://localhost:1313/tags/_languages/</link>
+      <link>http://localhost:40095/tags/_languages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/_languages/</guid>
+      <guid>http://localhost:40095/tags/_languages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>_method___tools</title>
-      <link>http://localhost:1313/tags/_method___tools/</link>
+      <link>http://localhost:40095/tags/_method___tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/_method___tools/</guid>
+      <guid>http://localhost:40095/tags/_method___tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>_native_mobile_apps</title>
-      <link>http://localhost:1313/tags/_native_mobile_apps/</link>
+      <link>http://localhost:40095/tags/_native_mobile_apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/_native_mobile_apps/</guid>
+      <guid>http://localhost:40095/tags/_native_mobile_apps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>_web</title>
-      <link>http://localhost:1313/tags/_web/</link>
+      <link>http://localhost:40095/tags/_web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/_web/</guid>
+      <guid>http://localhost:40095/tags/_web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>_wtf</title>
-      <link>http://localhost:1313/tags/_wtf/</link>
+      <link>http://localhost:40095/tags/_wtf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/_wtf/</guid>
+      <guid>http://localhost:40095/tags/_wtf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keynote</title>
-      <link>http://localhost:1313/tags/keynote/</link>
+      <link>http://localhost:40095/tags/keynote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/keynote/</guid>
+      <guid>http://localhost:40095/tags/keynote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lunch</title>
-      <link>http://localhost:1313/tags/lunch/</link>
+      <link>http://localhost:40095/tags/lunch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/lunch/</guid>
+      <guid>http://localhost:40095/tags/lunch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>office-hours</title>
-      <link>http://localhost:1313/tags/office-hours/</link>
+      <link>http://localhost:40095/tags/office-hours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/office-hours/</guid>
+      <guid>http://localhost:40095/tags/office-hours/</guid>
       <description></description>
     </item>
     
     <item>
       <title>open</title>
-      <link>http://localhost:1313/tags/open/</link>
+      <link>http://localhost:40095/tags/open/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/open/</guid>
+      <guid>http://localhost:40095/tags/open/</guid>
       <description></description>
     </item>
     
     <item>
       <title>party</title>
-      <link>http://localhost:1313/tags/party/</link>
+      <link>http://localhost:40095/tags/party/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/party/</guid>
+      <guid>http://localhost:40095/tags/party/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pause</title>
-      <link>http://localhost:1313/tags/pause/</link>
+      <link>http://localhost:40095/tags/pause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/pause/</guid>
+      <guid>http://localhost:40095/tags/pause/</guid>
       <description></description>
     </item>
     
