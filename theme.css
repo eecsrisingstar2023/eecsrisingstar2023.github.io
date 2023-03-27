@@ -151,7 +151,7 @@ body > header {
     align-items: center; }
   body > header .logo img {
     height: calc(var(--toolbar-height) - (2 * var(--space-2)));
-    max-width: 180px; }
+    max-width: 380px; }
   body > header label {
     display: none;
     opacity: .5;
@@ -462,7 +462,8 @@ a.social {
     max-width: 100%;
     width: var(--jumbo-logo-width, 400px);
     height: auto;
-    filter: drop-shadow(0px 1px 1px var(--darken-3)); }
+    filter: drop-shadow(0px 1px 1px var(--darken-3));
+    width: 36%; }
   .jumbo p {
     margin: var(--space-2) 0;
     font-size: 2rem; }
