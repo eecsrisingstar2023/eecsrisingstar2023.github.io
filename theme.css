@@ -479,7 +479,8 @@ a.social {
   .jumbo #jumbo-img {
     display: none; }
   .jumbo #jumbo-overlay {
-    background-color: var(--primary);
+    /* background-color: var(--primary); */ 
+    background-color: #262626;
     transition: opacity var(--jumbo-overlay-transition, 0.4s);
     position: absolute;
     top: 0;
