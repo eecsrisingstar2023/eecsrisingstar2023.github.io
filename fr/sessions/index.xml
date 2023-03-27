@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Présentations on EECS RISING STARTS 2023</title>
-    <link>http://localhost:40095/fr/sessions/</link>
+    <link>http://localhost:1313/fr/sessions/</link>
     <description>Recent content in Présentations on EECS RISING STARTS 2023</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:40095/fr/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/fr/sessions/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
