@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programme on EECS Rising Stars 2023</title>
-    <link>http://localhost:1313/fr/schedule/</link>
+    <link>http://localhost:45669/fr/schedule/</link>
     <description>Recent content in Programme on EECS Rising Stars 2023</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/fr/schedule/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:45669/fr/schedule/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
