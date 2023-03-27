@@ -480,7 +480,7 @@ a.social {
     display: none; }
   .jumbo #jumbo-overlay {
     /* background-color: var(--primary); */ 
-    background-color: #262626;
+    background-color: #3e3d3d;
     transition: opacity var(--jumbo-overlay-transition, 0.4s);
     position: absolute;
     top: 0;
