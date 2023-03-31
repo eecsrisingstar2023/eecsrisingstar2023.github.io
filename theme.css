@@ -109,9 +109,9 @@ h1, h2, h4, h5, h6 {
 
 h3 {
   margin-bottom: 0;
-  margin-top: 30px; 
+  margin-top: 20px; 
   font-weight: normal; 
-  line-height: 0.8; }
+  line-height: 1.25; }
 
 hr {
   border-color: var(--darken-1);
@@ -496,7 +496,7 @@ a.social {
   .jumbo #jumbo-overlay {
     /* background-color: var(--primary); */ 
     /* background-color: #002a4e6b    ; */
-    background-color: #292d316b    ;
+    background-color: #292d31b0    ;
     transition: opacity var(--jumbo-overlay-transition, 0.4s);
     position: absolute;
     top: 0;
@@ -507,7 +507,7 @@ a.social {
     .jumbo #jumbo-overlay.show {
       opacity: var(--jumbo-overlay-opacity, 0.6); }
   .jumbo .inner-wrapper {
-    max-width: 75vw; }
+    max-width: 85vw; }
     .jumbo .inner-wrapper .inner {
       padding: var(--space-4);
       color: var(--primary-txt);
@@ -522,7 +522,8 @@ a.social {
         font-weight: bold; }
       .jumbo .inner-wrapper .inner h3 {
         font-size: 1.8rem;
-        margin: var(--space-3) 0; }
+        margin-top: var(--space-3); 
+        margin-bottom: var(--space-3); }
       .jumbo .inner-wrapper .inner a {
         align-self: center;
         margin: .5em; }
