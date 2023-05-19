@@ -56,7 +56,7 @@
   --keynote: paleturquoise;
   /* Jumbo section */
   --jumbo-logo-width: 400px;
-  --jumbo-overlay-opacity: 0.6;
+  --jumbo-overlay-opacity: 1;
   --jumbo-overlay-transition: 0.5s;
   /* Partners */
   --partner-support-height: 60px;
@@ -83,7 +83,6 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: var(--darken-2); }
-
 *,
 *:before,
 *:after {
@@ -92,6 +91,10 @@ html {
 *:focus {
   outline: thin dotted var(--darken-3);
   outline-offset: var(--space-1); }
+
+.example{
+  background-color: rgba(220,220,220,0.6);
+}
 
 body {
   background: var(--base);
@@ -494,7 +497,7 @@ a.social {
   .jumbo #jumbo-img {
     display: none; }
   .jumbo #jumbo-overlay {
-    /* background-color: var(--primary); */ 
+    /* background-color: var(--primary);  */
     /* background-color: #002a4e6b    ; */
     background-color: #292d31b0    ;
     transition: opacity var(--jumbo-overlay-transition, 0.4s);
