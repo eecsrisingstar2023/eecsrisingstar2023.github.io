@@ -1,1 +1,1 @@
-# eecsrisingstar2023.github.io
+# eecsrisingstars2023.github.io
