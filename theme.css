@@ -951,7 +951,7 @@ form input {
   align-items: flex-start;
   flex-wrap: wrap; }
   .home main .speakers ul li {
-    margin: var(--space-4); }
+    margin: var(--space-10); }
 
 .home main .subscribe {
   text-align: center;
