@@ -169,7 +169,7 @@ body > header {
     align-items: center; }
   body > header .logo img {
     height: calc(var(--toolbar-height) - (6 * var(--space-2)));
-    max-width: 320px; }
+    max-width: 520px; }
   body > header label {
     display: none;
     opacity: .5;
