@@ -592,7 +592,8 @@ a.social {
   .speakers ul li .speaker .info {
     display: flex;
     flex-direction: column;
-    align-items: center; }
+    align-items: center; 
+  }
   .speakers ul li .speaker .speaker-img {
     --size: 8rem;
     height: var(--size, 8rem);
@@ -607,7 +608,8 @@ a.social {
     display: none; }
   .speakers ul li .speaker .speaker-name {
     font-weight: 600;
-    margin: var(--space-1); }
+    margin: var(--space-1); 
+  }
   .speakers ul li .speaker .speaker-company {
     font-weight: 200;
     opacity: .8;
