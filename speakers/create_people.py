@@ -44,9 +44,19 @@ for i, name in enumerate(all_names):
         if _id.startswith(id):
             correct_id = _id
 
+    # print(correct_id)
+
     if " " in correct_id:
         correct_id = correct_id.split(" ")
         correct_id ="\ ".join(i for i in correct_id)
+
+    if "(" in correct_id:
+        correct_id = correct_id.split("(")
+        correct_id ="\(".join(i for i in correct_id)
+
+    if ")" in correct_id:
+        correct_id = correct_id.split(")")
+        correct_id ="\)".join(i for i in correct_id)
 
     ## make a joint index
 
