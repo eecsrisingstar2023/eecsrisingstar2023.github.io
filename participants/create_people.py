@@ -2,6 +2,7 @@ import pickle
 import os
 from Tag import Tag
 import shutil
+import cv2
 
 with open("people", 'rb') as fp:
     people = pickle.load(fp)
@@ -45,6 +46,14 @@ for i, name in enumerate(all_names):
             correct_id = _id
 
     # print(correct_id)
+
+    if correct_id.endswith(".jp2"):
+        # print(correct_id)
+        url = "../images/Headshot/" + correct_id
+        new_url = url[:-4] + ".png"
+        image = cv2.imread(url)
+        cv2.imwrite(new_url, image)
+        correct_id = correct_id[:-4] + ".png"
 
     if " " in correct_id:
         correct_id = correct_id.split(" ")
