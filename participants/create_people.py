@@ -40,6 +40,8 @@ for i, name in enumerate(all_names):
     print(i, name)
     id = people[i]['id']
 
+    # print(id)
+
     correct_id = None
     for _id in all_ids:
         if _id.startswith(id):
