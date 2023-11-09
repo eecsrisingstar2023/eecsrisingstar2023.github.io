@@ -16,8 +16,14 @@ all_names_print = []
 for item in people:
     name = item["name"].split(", ")
     name.reverse()
+    # note: this is for ['Despoina', 'Paschalidou'] Despoina_Paschalidou Despoina Paschalidou
+    for i, subname in enumerate(name):
+        if subname.endswith(" "):
+            name[i] = subname[:-1]
+    ###
     name_dir ="_".join(i for i in name)
     name_print = " ".join(i for i in name)
+    print(name, name_dir, name_print)
     isDir = os.path.isdir(name_dir)
     if not isDir:
         os.mkdir(name_dir)
